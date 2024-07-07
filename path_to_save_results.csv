@@ -1,0 +1,3 @@
+image_path,actual_weight,predicted_weight_linear_regression,predicted_weight_random_forest,error_linear_regression,error_random_forest
+C:\Users\Frey\Documents\Capstone\runs\detect\predict231\crops\plant\15.jpg,136,191.07188075887132,184.82,55.071880758871316,48.81999999999999
+C:\Users\Frey\Documents\Capstone\runs\detect\predict231\crops\plant\1.jpg,197,193.03625086503757,183.72,3.963749134962427,13.280000000000001
